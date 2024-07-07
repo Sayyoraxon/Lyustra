@@ -43,7 +43,7 @@ body {
    border-radius: 2000px 0 0 2000px;
    background-image: radial-gradient(#000427 25%, #7603e8 75%, #B100EF);
    background-position-x: 20%;
-   animation: mymove 4s 0 alternate-reverse;
+   animation: mymove 4s infinite alternate-reverse;
    animation-timing-function: linear;
    box-shadow: 60px 0 5px rgba(118, 3, 232, 0.4);
    filter: blur(10px);
@@ -188,7 +188,7 @@ body {
    top: -10px;
    left: 962px;
    rotate: -15.85deg;
-   animation: mymove2 4s 0 alternate-reverse;
+   animation: mymove2 4s infinite alternate-reverse;
    animation-timing-function: linear;
 }
 
