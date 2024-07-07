@@ -36,13 +36,8 @@ body {
 
 .fontop {
    position: absolute;
-   width: 1200px;
    height: 1770px;
    top: -500px;
-   left: 700px;
-   border-radius: 2000px 0 0 2000px;
-   background-image: radial-gradient(#000427 25%, #7603e8 75%, #B100EF);
-   background-position-x: 20%;
    animation: mymove 4s infinite alternate-reverse;
    animation-timing-function: linear;
    box-shadow: 60px 0 5px rgba(118, 3, 232, 0.4);
@@ -61,12 +56,14 @@ body {
    25% {
       left: 450px;
       width: 1400px;
+      border-radius: 1700px 0 0 1700px;
       background-image: radial-gradient(#000427 15%, #7603e8 70%, #B100EF);
    }
 
    50% {
       left: 350px;
       width: 1600px;
+      border-radius: 1400px 0 0 1400px;
       box-shadow: 80px 0 10px rgba(118, 3, 232, 1);
       background-image: radial-gradient(#000427 10%, #7603e8 65%, #B100EF);
    }
