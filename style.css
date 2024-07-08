@@ -44,29 +44,14 @@ body {
 }
 
 @keyframes mymove {
-   0% {
+   from {
       left: 700px;
       width: 1200px;
       border-radius: 2000px 600px 600px 2000px;
       background-image: radial-gradient(#000427 20%, #7603e8 80%, #B100EF);
    }
 
-   25% {
-      left: 450px;
-      width: 1400px;
-      border-radius: 1700px 0 0 1700px;
-      background-image: radial-gradient(#000427 15%, #7603e8 70%, #B100EF);
-   }
-
-   50% {
-      left: 350px;
-      width: 1600px;
-      border-radius: 1400px 0 0 1400px;
-      box-shadow: 80px 0 10px rgba(118, 3, 232, 1);
-      background-image: radial-gradient(#000427 10%, #7603e8 65%, #B100EF);
-   }
-
-   100% {
+   to {
       left: 150px;
       width: 1800px;
       box-shadow: 80px 0 10px rgba(118, 3, 232, 1);
@@ -148,7 +133,7 @@ body {
 }
 
 .abs1 {
-   top: 31px;
+   top: 34px;
    left: 340px;
 }
 
