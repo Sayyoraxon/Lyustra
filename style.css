@@ -48,7 +48,7 @@ body {
    from {
       left: 750px;
       border-radius: 2000px 600px 600px 2000px;
-      background-image: radial-gradient(#000427 15%, #7603e8 80%, #B100EF);
+      background-image: radial-gradient(#000427 20%, #7603e8 75%, #B100EF);
    }
 
    to {
