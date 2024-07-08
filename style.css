@@ -34,8 +34,9 @@ body {
 
 .fontop {
    position: absolute;
-   height: 1770px;
-   top: -500px;
+   height: 1700px;
+   width: 1700px;
+   top: -450px;
    animation: mymove 4s infinite alternate-reverse;
    animation-timing-function: linear;
    box-shadow: 60px 0 5px rgba(118, 3, 232, 0.4);
@@ -45,18 +46,16 @@ body {
 
 @keyframes mymove {
    from {
-      left: 700px;
-      width: 1200px;
+      left: 750px;
       border-radius: 2000px 600px 600px 2000px;
-      background-image: radial-gradient(#000427 20%, #7603e8 80%, #B100EF);
+      background-image: radial-gradient(#000427 15%, #7603e8 85%, #B100EF);
    }
 
    to {
-      left: 150px;
-      width: 1800px;
+      left: 250px;
       box-shadow: 80px 0 10px rgba(118, 3, 232, 1);
       border-radius: 1000px 0 0 1000px;
-      background-image: radial-gradient(#000427 5%, #7603e8 55%, #B100EF);
+      background-image: radial-gradient(#000427 15%, #7603e8 55%, #B100EF);
    }
 }
 
@@ -166,8 +165,7 @@ body {
 .hero {
    position: absolute;
    top: -10px;
-   left: 962px;
-   rotate: -15.85deg;
+   left: 862px;
    animation: mymove2 4s infinite alternate-reverse;
    animation-timing-function: linear;
 }
@@ -175,15 +173,14 @@ body {
 @keyframes mymove2 {
    from {
       rotate: -16deg;
-      top: -10px;
-      left: 962px;
-
+      top: -8px;
+      left: 1150px;
    }
 
    to {
       rotate: 0deg;
       top: 0;
-      left: 862px;
+      left: 870px;
    }
 }
 
