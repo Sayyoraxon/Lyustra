@@ -52,7 +52,7 @@ body {
    }
 
    to {
-      left: 250px;
+      left: 120px;
       box-shadow: 80px 0 10px rgba(118, 3, 232, 1);
       border-radius: 1000px 0 0 1000px;
       background-image: radial-gradient(#000427, #7603e8 55%, #B100EF );
@@ -90,7 +90,7 @@ body {
 
 .hug {
    margin-top: 19px;
-   padding: 11px 36px;
+   padding: 11px 24px;
    border: 2px solid #fff;
    border-radius: 30px;
    color: #fff;
@@ -133,39 +133,38 @@ body {
 
 .abs1 {
    top: 34px;
-   left: 324px;
+   left: 330px;
 }
 
 .abs2 {
-   top: 26px;
-   left: 500px;
+   top: 30px;
+   left: 506px;
 }
 
 .abs3 {
-   top: 26px;
-   left: 576px;
+   top: 31px;
+   left: 582px;
 }
 
 .abs4 {
-   top: 26px;
-   left: 722px;
+   top: 31px;
+   left: 723px;
 }
 
 .abs5 {
-   top: 26px;
+   top: 31px;
    left: 796px;
 }
 
 .abs6 {
    top: 32px;
-   left: 1418px;
+   left: 1412px;
 }
 
 
 .hero {
    position: absolute;
    top: -10px;
-   left: 862px;
    animation: mymove2 4s infinite alternate-reverse;
    animation-timing-function: linear;
 }
@@ -174,13 +173,13 @@ body {
    from {
       rotate: -16deg;
       top: -8px;
-      left: 1134px;
+      left: 1124px;
    }
 
    to {
       rotate: 0deg;
       top: 0;
-      left: 856px;
+      left: 842px;
    }
 }
 
@@ -197,7 +196,7 @@ body {
    line-height: 78px;
    margin-bottom: 0;
    top: 116px;
-   left: 324px;
+   left: 330px;
 }
 
 .abs8 {
@@ -209,8 +208,8 @@ body {
    color: #fff;
    margin-top: -4px;
    margin-left: 170px;
-   top: 230px;
-   left: 320px;
+   top: 224px;
+   left: 330px;
 }
 
 .hug1 {
@@ -219,11 +218,11 @@ body {
    line-height: 23.12px;
    color: #fff;
    padding: 10px;
-   width: 680px;
+   width: 722px;
    text-align: center;
    border: 2px solid #fff;
    border-radius: 30px;
-   left: 324px;
+   left: 330px;
    top: 251px;
 }
 
@@ -234,7 +233,7 @@ body {
    margin-top: 174px;
    font-size: 22px;
    line-height: 31.79px;
-   left: 264px
+   left: 270px
 }
 
 .abs11 {
@@ -246,8 +245,8 @@ body {
    padding-left: 61px;
    width: 400px;
    margin-top: -8px;
-   left: 264px;
-   top: 540px;
+   left: 272px;
+   top: 546px;
 }
 
 .ellipses {
@@ -258,32 +257,32 @@ body {
 
 
 .alp1 {
-   left: 324px;
+   left: 330px;
    top: 610px
 }
 
 .alp2 {
-   left: 422px;
+   left: 428px;
    top: 610px
 }
 
 .alp3 {
-   left: 520px;
+   left: 526px;
    top: 610px
 }
 
 .alp4 {
-   left: 618px;
+   left: 622px;
    top: 610px
 }
 
 .alp5 {
-   left: 716px;
+   left: 722px;
    top: 610px
 }
 
 .alp6 {
-   left: 814px;
+   left: 820px;
    top: 610px
 }
 
@@ -292,7 +291,7 @@ body {
 }
 
 .container2 {
-   width: 1274px;
+   width: 1264px;
    margin-left: auto;
    margin-right: auto;
    padding: 52px 0;
@@ -627,7 +626,7 @@ a.bottomnav {
 }
 
 .container3 {
-   width: 1274px;
+   width: 1264px;
    height: 77px;
    margin-left: auto;
    margin-right: auto;
