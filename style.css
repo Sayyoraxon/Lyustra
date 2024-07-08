@@ -133,32 +133,32 @@ body {
 
 .abs1 {
    top: 34px;
-   left: 340px;
+   left: 324px;
 }
 
 .abs2 {
    top: 26px;
-   left: 516px;
+   left: 500px;
 }
 
 .abs3 {
    top: 26px;
-   left: 592px;
+   left: 576px;
 }
 
 .abs4 {
    top: 26px;
-   left: 738px;
+   left: 722px;
 }
 
 .abs5 {
    top: 26px;
-   left: 812px;
+   left: 796px;
 }
 
 .abs6 {
    top: 32px;
-   left: 1438px;
+   left: 1422px;
 }
 
 
@@ -174,13 +174,13 @@ body {
    from {
       rotate: -16deg;
       top: -8px;
-      left: 1150px;
+      left: 1134px;
    }
 
    to {
       rotate: 0deg;
       top: 0;
-      left: 870px;
+      left: 856px;
    }
 }
 
@@ -197,7 +197,7 @@ body {
    line-height: 78px;
    margin-bottom: 0;
    top: 116px;
-   left: 340px;
+   left: 324px;
 }
 
 .abs8 {
@@ -210,7 +210,7 @@ body {
    margin-top: -4px;
    margin-left: 170px;
    top: 230px;
-   left: 336px;
+   left: 320px;
 }
 
 .hug1 {
@@ -223,7 +223,7 @@ body {
    text-align: center;
    border: 2px solid #fff;
    border-radius: 30px;
-   left: 340px;
+   left: 324px;
    top: 251px;
 }
 
@@ -234,7 +234,7 @@ body {
    margin-top: 174px;
    font-size: 22px;
    line-height: 31.79px;
-   left: 280px
+   left: 264px
 }
 
 .abs11 {
@@ -246,7 +246,7 @@ body {
    padding-left: 61px;
    width: 400px;
    margin-top: -8px;
-   left: 280px;
+   left: 264px;
    top: 540px;
 }
 
@@ -258,32 +258,32 @@ body {
 
 
 .alp1 {
-   left: 340px;
+   left: 324px;
    top: 610px
 }
 
 .alp2 {
-   left: 438px;
+   left: 422px;
    top: 610px
 }
 
 .alp3 {
-   left: 536px;
+   left: 520px;
    top: 610px
 }
 
 .alp4 {
-   left: 634px;
+   left: 618px;
    top: 610px
 }
 
 .alp5 {
-   left: 732px;
+   left: 716px;
    top: 610px
 }
 
 .alp6 {
-   left: 830px;
+   left: 814px;
    top: 610px
 }
 
@@ -292,7 +292,7 @@ body {
 }
 
 .container2 {
-   width: 1239px;
+   width: 1274px;
    margin-left: auto;
    margin-right: auto;
    padding: 52px 0;
@@ -627,7 +627,7 @@ a.bottomnav {
 }
 
 .container3 {
-   width: 1239px;
+   width: 1274px;
    height: 77px;
    margin-left: auto;
    margin-right: auto;
